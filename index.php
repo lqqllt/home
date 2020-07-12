@@ -1,6 +1,9 @@
 <?php
-
-// change the following paths if necessary
+/**
+ *
+ * @author
+ *
+*/
 $yii=dirname(__FILE__).'/../yii/framework/yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
 
