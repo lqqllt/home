@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * @author
+ * @author haha
  *
 */
 $yii=dirname(__FILE__).'/../yii/framework/yii.php';
